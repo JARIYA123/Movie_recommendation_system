@@ -12,12 +12,12 @@ This project recommends movies by analyzing their **overview and genres**. It us
 
 ## 🧠 How It Works
 
-* 1. Load movie dataset (`tmdb.csv`)
-* 2. Clean and preprocess data
-* 3. Combine features (overview + genre)
-* 4. Convert text into numerical vectors using CountVectorizer
-* 5. Compute similarity using cosine similarity
-* 6. Recommend top 5 similar movies
+*  Load movie dataset (`tmdb.csv`)
+*  Clean and preprocess data
+*  Combine features (overview + genre)
+*  Convert text into numerical vectors using CountVectorizer
+*  Compute similarity using cosine similarity
+*  Recommend top 5 similar movies
 
 ---
 
